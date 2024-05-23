@@ -50,7 +50,6 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
 ![image](https://github.com/subha2406/LU-Decomposition/assets/155226504/813110ce-b03c-45e4-b589-8b525c081cfb)
 ![image](https://github.com/subha2406/LU-Decomposition/assets/155226504/b393a374-4251-4c3e-9234-36604025222a)
 
